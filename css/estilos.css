@@ -884,14 +884,6 @@ h4{
 
     /*Entrada*/
 
-    .entrada .autor{
-        padding:70px 10px 10px;
-    }
-
-    .entrada h1{
-        bottom: 45px;
-    }
-
     .entrada div+p{
         margin-top: 40px;
     }

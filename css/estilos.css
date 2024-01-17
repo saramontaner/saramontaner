@@ -469,9 +469,6 @@ button:hover{
 }
 
 .entrada h1{
-    position:absolute;
-    top:initial;
-    bottom: 50px;
     font-size:4.1rem;
     line-height: 5rem;
     padding:10px;
@@ -481,7 +478,7 @@ button:hover{
     color:rgb(158,157,171);
     font-size:1.4rem;
     line-height: 3.5rem;
-    padding:120px 10px 10px;
+    padding:0px 10px 10px;
 }
 
 .autor span{
